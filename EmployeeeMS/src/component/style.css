@@ -1,0 +1,24 @@
+.loginPage{
+   
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    /* background-color: auto; */
+    background-color: rgb(60, 0, 255);
+    color:white;
+   
+
+}
+.btn{
+    color: white;
+    outline: red;
+}
+
+.employee_image{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
